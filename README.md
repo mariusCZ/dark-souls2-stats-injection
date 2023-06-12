@@ -1,6 +1,6 @@
 # What is this?
 
-This essentially implements the following CE script in C++:
+This essentially implements (For Dark Souls II specifically, not SotFS) the following CE script in C++:
 
 ```
 define(address,"DarkSoulsII.exe"+126388)
